@@ -1,0 +1,8 @@
+name: Hack
+main: me.MorcCrafak.Hack.main
+version: 1.0
+description: >
+             Hack Plugin.
+commands:
+  hack:
+    description: Hack!
